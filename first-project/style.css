@@ -1,0 +1,68 @@
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    transition: 0.5s;
+    background-color: #8c6464;
+}
+.png2{
+     width: 420px;
+     
+}
+.tt{
+    text-align: center;
+    margin-top: 70px;
+}
+.tq{
+    width: 420px;
+
+    margin-top: 60px;
+}
+.png3{
+    width: 400px;
+   
+    margin-top: 70px;
+}
+.ii{width: 400px;
+   
+    margin-top: 70px;}
+.png3:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 80px 30px lightslategray;
+    border-radius: 0%;
+ transition: 0.5s;
+}
+.png1:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 90px 30px lightslategray;
+    border-radius: 40%;
+transition: 0.5s;
+}
+.png2:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 80px 30px lightslategray;
+    border-radius: 100%;
+transition: 0.5s;
+}
+.tq:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 80px 30px lightslategray;
+    border-radius: 0%;
+transition: 0.5s;
+}
+.ii:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 80px 30px lightslategray;
+    border-radius: 0%;
+transition: 0.5s;
+}
+.pp:hover{
+    transition: 0.5s;
+    box-shadow: 0px 0px 80px 30px lightslategray;
+    border-radius: 0%;
+transition: 0.5s;
+
+}
